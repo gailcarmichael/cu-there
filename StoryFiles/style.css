@@ -1,0 +1,47 @@
+
+h1{
+	font-family: 'helvetica', sans-serif;
+	font-size: 22px;
+    font-weight:bolder;
+	color: /*#999*/ white;
+    background-color:#CC0000;
+    padding:7px;
+}
+
+
+body{
+	font-family: 'helvetica', sans-serif;
+	font-size: 18px;
+	color: #333;
+}
+
+img { border: 1px;
+	padding: 8px;
+	color: #999;
+	border:groove;
+	}
+
+.nextLocation{
+	font-family: 'helvetica', sans-serif;
+	font-size: 19px;
+	font-weight: bold;
+	color: #900;
+}
+
+
+a {
+	font-family: 'helvetica', sans-serif;
+	font-size: 18px;
+	color: #E47D23;
+}
+
+div.box{
+	border: solid 1px #CCCCCC;
+	background-color: #f9f9f9;
+	display: table;
+	padding: 6px;
+	margin: 4px 4px 4px 4px;
+	font-family: 'helvetica', sans-serif;
+	font-size: 18px;
+	color: #339;
+}
